@@ -6,4 +6,4 @@ day = (/1, 1, 29, 1, 1, 1/)
 
 dow = day_of_week(year,month,day)
 print(dow)
-; dow = (/-9999,0,1,3,6/)
+; dow = (/-9999,0,3,3,6,-6/)
